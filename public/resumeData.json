@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Swayam Soni",
+    "occupation": "Software Engineer && Full Stack Developer",
+    "description": "",
+    "image": "sam.jpeg",
+    "bio": "My name is Swayam, I'm a Full MERN Stack  Developer.",
+    "contactmessage": "Get in touch with me to receive further details, To know more about me.",
+    "email": "SwayamSoni.1905@gmail.com",
+    "phone": "+91 9682977201",
+    "address": {
+      "street": "Station Road",
+      "city": "Rasra",
+      "state": "Uttar Pradesh",
+      "zip": "221712"
+    },
+    "website": "SwayamSoni.me",
+    "resumedownload": "https://drive.google.com/file/d/1qqJ_9cqK-LPBTIKYY77aacnQOBx0WrJ0/view?usp=drivesdk",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Swayam Soni",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/swayam-soni-b31307204",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/swayam.soni_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/string-SAm",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a frontend web developer with a passion for creating intuitive and visually appealing user experiences. I have experience with a wide range of frontend technologies, including HTML, CSS, and JavaScript, and is skilled at using these tools to bring design mockups to life. | am a strong problem-solver and is able to quickly learn new technologies and frameworks as needed. In my spare time, | enjoys staying up-to-date with the latest frontend trends and experimenting with new technologies.I am always looking for opportunities to grow and learn as a developer.",
+    "education": [
+      {
+        "school": "Galgotias University",
+        "degree": "Bachelors of Technology in Computer Science",
+        "graduated": "June 2024",
+        "description": "CGPA: 8.21/10"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infinity Pillar",
+        "title": "FrontEnd Developer",
+        "years": "January 2023 - Present",
+        "description": "Building an  App from scratch using React Native & Typescript."
+      },
+      {
+        "company": "CryptoAres",
+        "title": "Content Engineer Intern",
+        "years": "Aug 2022 - Dec 2022",
+        "description": "Fetch CoinGeeko API to provide best news regarding Crypto and build frontend. using ReactJS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "DSA",
+        "level": "85%"
+      },
+      {
+        "name": "Java Script",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Flipkart Clone",
+        "category": "Flipkart Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "flipkart clone.webp",
+        "url": "https://www.youtube.com/watch?v=2zoq8vvwX4M&list=PL_6klLfS1WqFWzBpxBROQwHNIqkrZZPlz"
+      },
+      {
+        "title": "Book Store",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "Book_Store.png",
+        "url": "https://github.com/string-SAm/Book_Store"
+      },
+      {
+        "title": "Crypto Tracer",
+        "category": "Builde a Frontend website for TRACING crypto with ReactJS",
+        "image": "CryptoTracer.png",
+        "url": ""
+      },
+      {
+        "title": "Expense Tracker",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "expense_tracker.webp",
+        "url": "https://github.com/string-SAm/Expense_Tracker"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I love programming and I have strong grasp on DSA problems solving skills, also i worked as a Frontend Developer as an intern, Builded many projects on MERN Stack Applications.I can easily grasp new things & learn new Skills, Prefer Smart Work Instead Hard Work .",
+        "user": "Swayam Soni"
+      }
+    ]
+  }
+}
